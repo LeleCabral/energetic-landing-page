@@ -70,4 +70,12 @@
   font-family: monospace;
   cursor: pointer;
   z-index: 4;
+  border-radius: 50%;
+}
+
+#prev {
+  left: 30px;
+}
+#next {
+  right: 30px;
 }
